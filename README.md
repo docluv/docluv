@@ -18,5 +18,5 @@ Some Quick Info:
 - 🌱 I’m currently learning everyday!
 - 💬 Ask me about Progressive Web Apps & Search Engine Optimization
 - 📫 How to reach me: https://love2dev.com/contact/
-- ⚡ Fun fact: I have 59 Spartan Races to my credit and am a 2nd Degree Karate Black Belt!
+- ⚡ Fun fact: I have 97 Spartan Races to my credit, compete in Spartan Deka and am a 2nd Degree Karate Black Belt!
 
