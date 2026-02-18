@@ -1,22 +1,48 @@
-### Hi there 👋
+# Chris Love  
+### Senior AI Systems Engineer | LLM Architecture | RAG | Agentic Systems  
 
-<!--
-**docluv/docluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and ship production-grade AI systems that integrate LLMs into real-world business workflows.
 
--->
+With 30+ years in software engineering and systems architecture, I specialize in building reliable, scalable backend platforms where AI augments — but does not replace — deterministic system logic.
 
-My Main Website is https://love2dev.com/
-You can find out all sorts of stuff about Progressive Web Apps, SEO and web development there.
+---
 
-If you want to get started making a Progressive Web App then be sure to visit my tool [PWA Starter](https://pwastarter.lvoe2dev.com/).
+## 🔍 Current Focus
 
-If you want to learn PWA development online I have a course avaialble at http://pwacourse.com/
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic AI systems with controlled tool execution
+- Structured LLM outputs with schema validation
+- Multi-tenant SaaS architectures
+- Deterministic data + AI orchestration layers
+- Vector search and semantic retrieval
+- API-heavy backend systems (Node.js / TypeScript / Python)
 
-Some Quick Info:
+---
 
-- 🔭 I’m currently working on multiple Progressive Web Applications and SAAS platforms
-- 🌱 I’m currently learning everyday!
-- 💬 Ask me about Progressive Web Apps & Search Engine Optimization
-- 📫 How to reach me: https://love2dev.com/contact/
-- ⚡ Fun fact: I have 97 Spartan Races to my credit, compete in Spartan Deka and am a 2nd Degree Karate Black Belt!
+## 🧠 Selected AI Systems
 
+- **SharpAI** – LLM-powered content intelligence system with vector retrieval (40K+ embedded documents)
+- **IntentLens** – AI-driven recommendation engine integrating product intelligence and structured output validation
+- **Resume Intelligence Engine** – Structured resume parsing and skills gap analysis pipeline using LLM function calling
+
+(Additional case studies available upon request.)
+
+---
+
+## 🏗 Background
+
+Before focusing on AI systems, I spent over two decades building scalable web platforms, SaaS systems, and enterprise architecture solutions — including regulated healthcare and financial environments.
+
+Former Microsoft MVP  
+Speaker & technical author  
+
+---
+
+## 📫 Contact
+
+[Website](https://love2dev.com)
+[LinkedIn](https://www.linkedin.com/in/love2dev/)
+
+---
+
+> I build AI systems that behave predictably, scale cleanly, and integrate safely into real-world workflows.
